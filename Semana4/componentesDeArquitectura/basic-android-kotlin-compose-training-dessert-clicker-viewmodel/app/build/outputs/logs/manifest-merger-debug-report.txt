@@ -1,0 +1,284 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/markodeb/Downloads/viewModelWriteUnitText/basic-android-kotlin-compose-training-dessert-clicker-viewmodel/app/src/main/AndroidManifest.xml:17:1-41:12
+INJECTED from /home/markodeb/Downloads/viewModelWriteUnitText/basic-android-kotlin-compose-training-dessert-clicker-viewmodel/app/src/main/AndroidManifest.xml:17:1-41:12
+INJECTED from /home/markodeb/Downloads/viewModelWriteUnitText/basic-android-kotlin-compose-training-dessert-clicker-viewmodel/app/src/main/AndroidManifest.xml:17:1-41:12
+INJECTED from /home/markodeb/Downloads/viewModelWriteUnitText/basic-android-kotlin-compose-training-dessert-clicker-viewmodel/app/src/main/AndroidManifest.xml:17:1-41:12
+MERGED from [androidx.compose.ui:ui-tooling:1.3.3] /home/markodeb/.gradle/caches/transforms-3/86cbcb56c518c04971d03d6de2771721/transformed/ui-tooling-1.3.3/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.activity:activity-compose:1.6.1] /home/markodeb/.gradle/caches/transforms-3/f9959d3ee7f5fa83fd54145387f713a8/transformed/activity-compose-1.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose:2.5.1] /home/markodeb/.gradle/caches/transforms-3/b4cb400cdc4ca4cf8be5c06fd86b5f5b/transformed/lifecycle-viewmodel-compose-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.material:material:1.3.1] /home/markodeb/.gradle/caches/transforms-3/805fd7974a4c546b7101dbb70c5d8d14/transformed/material-1.3.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.material:material-ripple:1.3.1] /home/markodeb/.gradle/caches/transforms-3/b3e958175374bf366dfb74b26dbf1cfd/transformed/material-ripple-1.3.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.foundation:foundation:1.3.1] /home/markodeb/.gradle/caches/transforms-3/2cfb25b20971ce7bf5e53cbab716b02c/transformed/foundation-1.3.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.animation:animation:1.3.3] /home/markodeb/.gradle/caches/transforms-3/f72294d40cabd87d24b34c65dbd2e2da/transformed/animation-1.3.3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.foundation:foundation-layout:1.3.1] /home/markodeb/.gradle/caches/transforms-3/b482598ed07fd00932ad623e182159bf/transformed/foundation-layout-1.3.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.animation:animation-core:1.3.3] /home/markodeb/.gradle/caches/transforms-3/a0fb8fedb2656523252d0046afcf5801/transformed/animation-core-1.3.3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.material:material-icons-core:1.3.1] /home/markodeb/.gradle/caches/transforms-3/7988fdc6474ee279d1f26f0efde3b4f6/transformed/material-icons-core-1.3.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.ui:ui-tooling-data:1.3.3] /home/markodeb/.gradle/caches/transforms-3/5a5efdba8fb1164d24342a6153f35399/transformed/ui-tooling-data-1.3.3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.ui:ui:1.3.3] /home/markodeb/.gradle/caches/transforms-3/c381689a0936bb386ba85127433e8701/transformed/ui-1.3.3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.ui:ui-test-manifest:1.3.3] /home/markodeb/.gradle/caches/transforms-3/3eedd7b1b5f0e1e34fe4fcc455b7cf83/transformed/ui-test-manifest-1.3.3/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.activity:activity:1.6.1] /home/markodeb/.gradle/caches/transforms-3/c1a5186efeb1bc118cdb0416488f69fd/transformed/activity-1.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity-ktx:1.6.1] /home/markodeb/.gradle/caches/transforms-3/c09ae3abc8b87492c6ab81302d93d2aa/transformed/activity-ktx-1.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.5.1] /home/markodeb/.gradle/caches/transforms-3/ed28e1d991521f3a347b1a8a2d267271/transformed/lifecycle-runtime-ktx-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.ui:ui-tooling-preview:1.3.3] /home/markodeb/.gradle/caches/transforms-3/7c68f9695cbdc79054d64a1f661c757f/transformed/ui-tooling-preview-1.3.3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.ui:ui-text:1.3.3] /home/markodeb/.gradle/caches/transforms-3/4e3334819da7bcba5b894af97c77b090/transformed/ui-text-1.3.3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.runtime:runtime-saveable:1.3.3] /home/markodeb/.gradle/caches/transforms-3/1a003d9da45d9ac03ef9da1f8c756352/transformed/runtime-saveable-1.3.3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.ui:ui-graphics:1.3.3] /home/markodeb/.gradle/caches/transforms-3/3f96da79f1bf7931d6462e60cc3afab5/transformed/ui-graphics-1.3.3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.ui:ui-unit:1.3.3] /home/markodeb/.gradle/caches/transforms-3/01aaebe44f4ca05186ec049e6affe876/transformed/ui-unit-1.3.3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.ui:ui-geometry:1.3.3] /home/markodeb/.gradle/caches/transforms-3/fc596fd9437a12a0c3efe62aca269725/transformed/ui-geometry-1.3.3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.runtime:runtime:1.3.3] /home/markodeb/.gradle/caches/transforms-3/86b700246533a9144d9c5969a4baf3ff/transformed/runtime-1.3.3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.5.1] /home/markodeb/.gradle/caches/transforms-3/2448ca92376c8a30161fab2e307d02f7/transformed/lifecycle-viewmodel-ktx-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] /home/markodeb/.gradle/caches/transforms-3/a67e3aa516adabf079190c62a500697e/transformed/lifecycle-viewmodel-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] /home/markodeb/.gradle/caches/transforms-3/e9c7d2722658a024a845d61b0e89bcaf/transformed/lifecycle-viewmodel-savedstate-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.autofill:autofill:1.0.0] /home/markodeb/.gradle/caches/transforms-3/4a4062c7c414d6ed3fd68a6d2353fd81/transformed/autofill-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.9.0] /home/markodeb/.gradle/caches/transforms-3/b07fba3fd91c66f4364e277ae09a1d3d/transformed/core-1.9.0/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /home/markodeb/.gradle/caches/transforms-3/a713e744783ac78b227168a794699091/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.core:core-ktx:1.9.0] /home/markodeb/.gradle/caches/transforms-3/885a8b69e88b274fe59abd6795ebb7f4/transformed/core-ktx-1.9.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-util:1.3.3] /home/markodeb/.gradle/caches/transforms-3/6da830657b438f47e429d677ecda3d10/transformed/ui-util-1.3.3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] /home/markodeb/.gradle/caches/transforms-3/0af4ac25abf1190fa1f04d5a135d18c3/transformed/lifecycle-runtime-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.0] /home/markodeb/.gradle/caches/transforms-3/b58ba0c904667d1f74c494874df7e1bd/transformed/savedstate-ktx-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.2.0] /home/markodeb/.gradle/caches/transforms-3/04c107f47691dc525fcfb673066c5b93/transformed/savedstate-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] /home/markodeb/.gradle/caches/transforms-3/14e99313ec6636e27537289475ddbf48/transformed/lifecycle-livedata-core-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/markodeb/.gradle/caches/transforms-3/14acd7dec0bdb9bb4388a7e36a051d53/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.2.0] /home/markodeb/.gradle/caches/transforms-3/59b0dbc0283b095a649c9b33ef7f9bca/transformed/profileinstaller-1.2.0/AndroidManifest.xml:17:1-50:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/markodeb/.gradle/caches/transforms-3/f7edc4a3d324194122896f90a76291ab/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/markodeb/.gradle/caches/transforms-3/654308a0c7f52559e4bf5f63e8e890f9/transformed/startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] /home/markodeb/.gradle/caches/transforms-3/8b0ddc2982987dbe4b27df9d9292c889/transformed/tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /home/markodeb/.gradle/caches/transforms-3/04e3363e60b9835a636b1f618560b208/transformed/annotation-experimental-1.3.0/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/markodeb/Downloads/viewModelWriteUnitText/basic-android-kotlin-compose-training-dessert-clicker-viewmodel/app/src/main/AndroidManifest.xml:17:1-41:12
+INJECTED from /home/markodeb/Downloads/viewModelWriteUnitText/basic-android-kotlin-compose-training-dessert-clicker-viewmodel/app/src/main/AndroidManifest.xml:17:1-41:12
+INJECTED from /home/markodeb/Downloads/viewModelWriteUnitText/basic-android-kotlin-compose-training-dessert-clicker-viewmodel/app/src/main/AndroidManifest.xml:17:1-41:12
+	package
+		ADDED from /home/markodeb/Downloads/viewModelWriteUnitText/basic-android-kotlin-compose-training-dessert-clicker-viewmodel/app/src/main/AndroidManifest.xml:19:5-41
+		INJECTED from /home/markodeb/Downloads/viewModelWriteUnitText/basic-android-kotlin-compose-training-dessert-clicker-viewmodel/app/src/main/AndroidManifest.xml
+		INJECTED from /home/markodeb/Downloads/viewModelWriteUnitText/basic-android-kotlin-compose-training-dessert-clicker-viewmodel/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/markodeb/Downloads/viewModelWriteUnitText/basic-android-kotlin-compose-training-dessert-clicker-viewmodel/app/src/main/AndroidManifest.xml
+		ADDED from /home/markodeb/Downloads/viewModelWriteUnitText/basic-android-kotlin-compose-training-dessert-clicker-viewmodel/app/src/main/AndroidManifest.xml:17:1-41:12
+		INJECTED from /home/markodeb/Downloads/viewModelWriteUnitText/basic-android-kotlin-compose-training-dessert-clicker-viewmodel/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /home/markodeb/Downloads/viewModelWriteUnitText/basic-android-kotlin-compose-training-dessert-clicker-viewmodel/app/src/main/AndroidManifest.xml:18:5-51
+	android:versionCode
+		INJECTED from /home/markodeb/Downloads/viewModelWriteUnitText/basic-android-kotlin-compose-training-dessert-clicker-viewmodel/app/src/main/AndroidManifest.xml
+		ADDED from /home/markodeb/Downloads/viewModelWriteUnitText/basic-android-kotlin-compose-training-dessert-clicker-viewmodel/app/src/main/AndroidManifest.xml:17:1-41:12
+		INJECTED from /home/markodeb/Downloads/viewModelWriteUnitText/basic-android-kotlin-compose-training-dessert-clicker-viewmodel/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/markodeb/Downloads/viewModelWriteUnitText/basic-android-kotlin-compose-training-dessert-clicker-viewmodel/app/src/main/AndroidManifest.xml:17:11-69
+application
+ADDED from /home/markodeb/Downloads/viewModelWriteUnitText/basic-android-kotlin-compose-training-dessert-clicker-viewmodel/app/src/main/AndroidManifest.xml:21:5-39:19
+MERGED from [androidx.compose.ui:ui-tooling:1.3.3] /home/markodeb/.gradle/caches/transforms-3/86cbcb56c518c04971d03d6de2771721/transformed/ui-tooling-1.3.3/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.compose.ui:ui-tooling:1.3.3] /home/markodeb/.gradle/caches/transforms-3/86cbcb56c518c04971d03d6de2771721/transformed/ui-tooling-1.3.3/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.compose.ui:ui-test-manifest:1.3.3] /home/markodeb/.gradle/caches/transforms-3/3eedd7b1b5f0e1e34fe4fcc455b7cf83/transformed/ui-test-manifest-1.3.3/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.compose.ui:ui-test-manifest:1.3.3] /home/markodeb/.gradle/caches/transforms-3/3eedd7b1b5f0e1e34fe4fcc455b7cf83/transformed/ui-test-manifest-1.3.3/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.9.0] /home/markodeb/.gradle/caches/transforms-3/b07fba3fd91c66f4364e277ae09a1d3d/transformed/core-1.9.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.9.0] /home/markodeb/.gradle/caches/transforms-3/b07fba3fd91c66f4364e277ae09a1d3d/transformed/core-1.9.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/markodeb/.gradle/caches/transforms-3/14acd7dec0bdb9bb4388a7e36a051d53/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/markodeb/.gradle/caches/transforms-3/14acd7dec0bdb9bb4388a7e36a051d53/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.2.0] /home/markodeb/.gradle/caches/transforms-3/59b0dbc0283b095a649c9b33ef7f9bca/transformed/profileinstaller-1.2.0/AndroidManifest.xml:24:5-48:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.2.0] /home/markodeb/.gradle/caches/transforms-3/59b0dbc0283b095a649c9b33ef7f9bca/transformed/profileinstaller-1.2.0/AndroidManifest.xml:24:5-48:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/markodeb/.gradle/caches/transforms-3/654308a0c7f52559e4bf5f63e8e890f9/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/markodeb/.gradle/caches/transforms-3/654308a0c7f52559e4bf5f63e8e890f9/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.9.0] /home/markodeb/.gradle/caches/transforms-3/b07fba3fd91c66f4364e277ae09a1d3d/transformed/core-1.9.0/AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from /home/markodeb/Downloads/viewModelWriteUnitText/basic-android-kotlin-compose-training-dessert-clicker-viewmodel/app/src/main/AndroidManifest.xml:25:9-35
+	android:label
+		ADDED from /home/markodeb/Downloads/viewModelWriteUnitText/basic-android-kotlin-compose-training-dessert-clicker-viewmodel/app/src/main/AndroidManifest.xml:23:9-41
+	android:roundIcon
+		ADDED from /home/markodeb/Downloads/viewModelWriteUnitText/basic-android-kotlin-compose-training-dessert-clicker-viewmodel/app/src/main/AndroidManifest.xml:24:9-61
+	tools:targetApi
+		ADDED from /home/markodeb/Downloads/viewModelWriteUnitText/basic-android-kotlin-compose-training-dessert-clicker-viewmodel/app/src/main/AndroidManifest.xml:27:9-29
+	android:icon
+		ADDED from /home/markodeb/Downloads/viewModelWriteUnitText/basic-android-kotlin-compose-training-dessert-clicker-viewmodel/app/src/main/AndroidManifest.xml:22:9-50
+	android:theme
+		ADDED from /home/markodeb/Downloads/viewModelWriteUnitText/basic-android-kotlin-compose-training-dessert-clicker-viewmodel/app/src/main/AndroidManifest.xml:26:9-52
+activity#com.example.dessertclicker.MainActivity
+ADDED from /home/markodeb/Downloads/viewModelWriteUnitText/basic-android-kotlin-compose-training-dessert-clicker-viewmodel/app/src/main/AndroidManifest.xml:28:9-38:20
+	android:label
+		ADDED from /home/markodeb/Downloads/viewModelWriteUnitText/basic-android-kotlin-compose-training-dessert-clicker-viewmodel/app/src/main/AndroidManifest.xml:31:13-45
+	android:exported
+		ADDED from /home/markodeb/Downloads/viewModelWriteUnitText/basic-android-kotlin-compose-training-dessert-clicker-viewmodel/app/src/main/AndroidManifest.xml:30:13-36
+	android:theme
+		ADDED from /home/markodeb/Downloads/viewModelWriteUnitText/basic-android-kotlin-compose-training-dessert-clicker-viewmodel/app/src/main/AndroidManifest.xml:32:13-56
+	android:name
+		ADDED from /home/markodeb/Downloads/viewModelWriteUnitText/basic-android-kotlin-compose-training-dessert-clicker-viewmodel/app/src/main/AndroidManifest.xml:29:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/markodeb/Downloads/viewModelWriteUnitText/basic-android-kotlin-compose-training-dessert-clicker-viewmodel/app/src/main/AndroidManifest.xml:33:13-37:29
+action#android.intent.action.MAIN
+ADDED from /home/markodeb/Downloads/viewModelWriteUnitText/basic-android-kotlin-compose-training-dessert-clicker-viewmodel/app/src/main/AndroidManifest.xml:34:17-69
+	android:name
+		ADDED from /home/markodeb/Downloads/viewModelWriteUnitText/basic-android-kotlin-compose-training-dessert-clicker-viewmodel/app/src/main/AndroidManifest.xml:34:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/markodeb/Downloads/viewModelWriteUnitText/basic-android-kotlin-compose-training-dessert-clicker-viewmodel/app/src/main/AndroidManifest.xml:36:17-77
+	android:name
+		ADDED from /home/markodeb/Downloads/viewModelWriteUnitText/basic-android-kotlin-compose-training-dessert-clicker-viewmodel/app/src/main/AndroidManifest.xml:36:27-74
+uses-sdk
+INJECTED from /home/markodeb/Downloads/viewModelWriteUnitText/basic-android-kotlin-compose-training-dessert-clicker-viewmodel/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/markodeb/Downloads/viewModelWriteUnitText/basic-android-kotlin-compose-training-dessert-clicker-viewmodel/app/src/main/AndroidManifest.xml
+INJECTED from /home/markodeb/Downloads/viewModelWriteUnitText/basic-android-kotlin-compose-training-dessert-clicker-viewmodel/app/src/main/AndroidManifest.xml
+MERGED from [androidx.compose.ui:ui-tooling:1.3.3] /home/markodeb/.gradle/caches/transforms-3/86cbcb56c518c04971d03d6de2771721/transformed/ui-tooling-1.3.3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling:1.3.3] /home/markodeb/.gradle/caches/transforms-3/86cbcb56c518c04971d03d6de2771721/transformed/ui-tooling-1.3.3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-compose:1.6.1] /home/markodeb/.gradle/caches/transforms-3/f9959d3ee7f5fa83fd54145387f713a8/transformed/activity-compose-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-compose:1.6.1] /home/markodeb/.gradle/caches/transforms-3/f9959d3ee7f5fa83fd54145387f713a8/transformed/activity-compose-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose:2.5.1] /home/markodeb/.gradle/caches/transforms-3/b4cb400cdc4ca4cf8be5c06fd86b5f5b/transformed/lifecycle-viewmodel-compose-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose:2.5.1] /home/markodeb/.gradle/caches/transforms-3/b4cb400cdc4ca4cf8be5c06fd86b5f5b/transformed/lifecycle-viewmodel-compose-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.material:material:1.3.1] /home/markodeb/.gradle/caches/transforms-3/805fd7974a4c546b7101dbb70c5d8d14/transformed/material-1.3.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material:material:1.3.1] /home/markodeb/.gradle/caches/transforms-3/805fd7974a4c546b7101dbb70c5d8d14/transformed/material-1.3.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material:material-ripple:1.3.1] /home/markodeb/.gradle/caches/transforms-3/b3e958175374bf366dfb74b26dbf1cfd/transformed/material-ripple-1.3.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material:material-ripple:1.3.1] /home/markodeb/.gradle/caches/transforms-3/b3e958175374bf366dfb74b26dbf1cfd/transformed/material-ripple-1.3.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.foundation:foundation:1.3.1] /home/markodeb/.gradle/caches/transforms-3/2cfb25b20971ce7bf5e53cbab716b02c/transformed/foundation-1.3.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.foundation:foundation:1.3.1] /home/markodeb/.gradle/caches/transforms-3/2cfb25b20971ce7bf5e53cbab716b02c/transformed/foundation-1.3.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.animation:animation:1.3.3] /home/markodeb/.gradle/caches/transforms-3/f72294d40cabd87d24b34c65dbd2e2da/transformed/animation-1.3.3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.animation:animation:1.3.3] /home/markodeb/.gradle/caches/transforms-3/f72294d40cabd87d24b34c65dbd2e2da/transformed/animation-1.3.3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.foundation:foundation-layout:1.3.1] /home/markodeb/.gradle/caches/transforms-3/b482598ed07fd00932ad623e182159bf/transformed/foundation-layout-1.3.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.foundation:foundation-layout:1.3.1] /home/markodeb/.gradle/caches/transforms-3/b482598ed07fd00932ad623e182159bf/transformed/foundation-layout-1.3.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.animation:animation-core:1.3.3] /home/markodeb/.gradle/caches/transforms-3/a0fb8fedb2656523252d0046afcf5801/transformed/animation-core-1.3.3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.animation:animation-core:1.3.3] /home/markodeb/.gradle/caches/transforms-3/a0fb8fedb2656523252d0046afcf5801/transformed/animation-core-1.3.3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material:material-icons-core:1.3.1] /home/markodeb/.gradle/caches/transforms-3/7988fdc6474ee279d1f26f0efde3b4f6/transformed/material-icons-core-1.3.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material:material-icons-core:1.3.1] /home/markodeb/.gradle/caches/transforms-3/7988fdc6474ee279d1f26f0efde3b4f6/transformed/material-icons-core-1.3.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-data:1.3.3] /home/markodeb/.gradle/caches/transforms-3/5a5efdba8fb1164d24342a6153f35399/transformed/ui-tooling-data-1.3.3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-data:1.3.3] /home/markodeb/.gradle/caches/transforms-3/5a5efdba8fb1164d24342a6153f35399/transformed/ui-tooling-data-1.3.3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui:1.3.3] /home/markodeb/.gradle/caches/transforms-3/c381689a0936bb386ba85127433e8701/transformed/ui-1.3.3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui:1.3.3] /home/markodeb/.gradle/caches/transforms-3/c381689a0936bb386ba85127433e8701/transformed/ui-1.3.3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-test-manifest:1.3.3] /home/markodeb/.gradle/caches/transforms-3/3eedd7b1b5f0e1e34fe4fcc455b7cf83/transformed/ui-test-manifest-1.3.3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-test-manifest:1.3.3] /home/markodeb/.gradle/caches/transforms-3/3eedd7b1b5f0e1e34fe4fcc455b7cf83/transformed/ui-test-manifest-1.3.3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.6.1] /home/markodeb/.gradle/caches/transforms-3/c1a5186efeb1bc118cdb0416488f69fd/transformed/activity-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.6.1] /home/markodeb/.gradle/caches/transforms-3/c1a5186efeb1bc118cdb0416488f69fd/transformed/activity-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-ktx:1.6.1] /home/markodeb/.gradle/caches/transforms-3/c09ae3abc8b87492c6ab81302d93d2aa/transformed/activity-ktx-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-ktx:1.6.1] /home/markodeb/.gradle/caches/transforms-3/c09ae3abc8b87492c6ab81302d93d2aa/transformed/activity-ktx-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.5.1] /home/markodeb/.gradle/caches/transforms-3/ed28e1d991521f3a347b1a8a2d267271/transformed/lifecycle-runtime-ktx-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.5.1] /home/markodeb/.gradle/caches/transforms-3/ed28e1d991521f3a347b1a8a2d267271/transformed/lifecycle-runtime-ktx-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-tooling-preview:1.3.3] /home/markodeb/.gradle/caches/transforms-3/7c68f9695cbdc79054d64a1f661c757f/transformed/ui-tooling-preview-1.3.3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-preview:1.3.3] /home/markodeb/.gradle/caches/transforms-3/7c68f9695cbdc79054d64a1f661c757f/transformed/ui-tooling-preview-1.3.3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-text:1.3.3] /home/markodeb/.gradle/caches/transforms-3/4e3334819da7bcba5b894af97c77b090/transformed/ui-text-1.3.3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-text:1.3.3] /home/markodeb/.gradle/caches/transforms-3/4e3334819da7bcba5b894af97c77b090/transformed/ui-text-1.3.3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable:1.3.3] /home/markodeb/.gradle/caches/transforms-3/1a003d9da45d9ac03ef9da1f8c756352/transformed/runtime-saveable-1.3.3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable:1.3.3] /home/markodeb/.gradle/caches/transforms-3/1a003d9da45d9ac03ef9da1f8c756352/transformed/runtime-saveable-1.3.3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-graphics:1.3.3] /home/markodeb/.gradle/caches/transforms-3/3f96da79f1bf7931d6462e60cc3afab5/transformed/ui-graphics-1.3.3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-graphics:1.3.3] /home/markodeb/.gradle/caches/transforms-3/3f96da79f1bf7931d6462e60cc3afab5/transformed/ui-graphics-1.3.3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-unit:1.3.3] /home/markodeb/.gradle/caches/transforms-3/01aaebe44f4ca05186ec049e6affe876/transformed/ui-unit-1.3.3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-unit:1.3.3] /home/markodeb/.gradle/caches/transforms-3/01aaebe44f4ca05186ec049e6affe876/transformed/ui-unit-1.3.3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-geometry:1.3.3] /home/markodeb/.gradle/caches/transforms-3/fc596fd9437a12a0c3efe62aca269725/transformed/ui-geometry-1.3.3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-geometry:1.3.3] /home/markodeb/.gradle/caches/transforms-3/fc596fd9437a12a0c3efe62aca269725/transformed/ui-geometry-1.3.3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.runtime:runtime:1.3.3] /home/markodeb/.gradle/caches/transforms-3/86b700246533a9144d9c5969a4baf3ff/transformed/runtime-1.3.3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.runtime:runtime:1.3.3] /home/markodeb/.gradle/caches/transforms-3/86b700246533a9144d9c5969a4baf3ff/transformed/runtime-1.3.3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.5.1] /home/markodeb/.gradle/caches/transforms-3/2448ca92376c8a30161fab2e307d02f7/transformed/lifecycle-viewmodel-ktx-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.5.1] /home/markodeb/.gradle/caches/transforms-3/2448ca92376c8a30161fab2e307d02f7/transformed/lifecycle-viewmodel-ktx-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] /home/markodeb/.gradle/caches/transforms-3/a67e3aa516adabf079190c62a500697e/transformed/lifecycle-viewmodel-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] /home/markodeb/.gradle/caches/transforms-3/a67e3aa516adabf079190c62a500697e/transformed/lifecycle-viewmodel-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] /home/markodeb/.gradle/caches/transforms-3/e9c7d2722658a024a845d61b0e89bcaf/transformed/lifecycle-viewmodel-savedstate-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] /home/markodeb/.gradle/caches/transforms-3/e9c7d2722658a024a845d61b0e89bcaf/transformed/lifecycle-viewmodel-savedstate-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.0.0] /home/markodeb/.gradle/caches/transforms-3/4a4062c7c414d6ed3fd68a6d2353fd81/transformed/autofill-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.0.0] /home/markodeb/.gradle/caches/transforms-3/4a4062c7c414d6ed3fd68a6d2353fd81/transformed/autofill-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.9.0] /home/markodeb/.gradle/caches/transforms-3/b07fba3fd91c66f4364e277ae09a1d3d/transformed/core-1.9.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.9.0] /home/markodeb/.gradle/caches/transforms-3/b07fba3fd91c66f4364e277ae09a1d3d/transformed/core-1.9.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /home/markodeb/.gradle/caches/transforms-3/a713e744783ac78b227168a794699091/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /home/markodeb/.gradle/caches/transforms-3/a713e744783ac78b227168a794699091/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.core:core-ktx:1.9.0] /home/markodeb/.gradle/caches/transforms-3/885a8b69e88b274fe59abd6795ebb7f4/transformed/core-ktx-1.9.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.9.0] /home/markodeb/.gradle/caches/transforms-3/885a8b69e88b274fe59abd6795ebb7f4/transformed/core-ktx-1.9.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-util:1.3.3] /home/markodeb/.gradle/caches/transforms-3/6da830657b438f47e429d677ecda3d10/transformed/ui-util-1.3.3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-util:1.3.3] /home/markodeb/.gradle/caches/transforms-3/6da830657b438f47e429d677ecda3d10/transformed/ui-util-1.3.3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] /home/markodeb/.gradle/caches/transforms-3/0af4ac25abf1190fa1f04d5a135d18c3/transformed/lifecycle-runtime-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] /home/markodeb/.gradle/caches/transforms-3/0af4ac25abf1190fa1f04d5a135d18c3/transformed/lifecycle-runtime-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.0] /home/markodeb/.gradle/caches/transforms-3/b58ba0c904667d1f74c494874df7e1bd/transformed/savedstate-ktx-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.0] /home/markodeb/.gradle/caches/transforms-3/b58ba0c904667d1f74c494874df7e1bd/transformed/savedstate-ktx-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] /home/markodeb/.gradle/caches/transforms-3/04c107f47691dc525fcfb673066c5b93/transformed/savedstate-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] /home/markodeb/.gradle/caches/transforms-3/04c107f47691dc525fcfb673066c5b93/transformed/savedstate-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] /home/markodeb/.gradle/caches/transforms-3/14e99313ec6636e27537289475ddbf48/transformed/lifecycle-livedata-core-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] /home/markodeb/.gradle/caches/transforms-3/14e99313ec6636e27537289475ddbf48/transformed/lifecycle-livedata-core-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/markodeb/.gradle/caches/transforms-3/14acd7dec0bdb9bb4388a7e36a051d53/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/markodeb/.gradle/caches/transforms-3/14acd7dec0bdb9bb4388a7e36a051d53/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.profileinstaller:profileinstaller:1.2.0] /home/markodeb/.gradle/caches/transforms-3/59b0dbc0283b095a649c9b33ef7f9bca/transformed/profileinstaller-1.2.0/AndroidManifest.xml:21:5-22:38
+MERGED from [androidx.profileinstaller:profileinstaller:1.2.0] /home/markodeb/.gradle/caches/transforms-3/59b0dbc0283b095a649c9b33ef7f9bca/transformed/profileinstaller-1.2.0/AndroidManifest.xml:21:5-22:38
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/markodeb/.gradle/caches/transforms-3/f7edc4a3d324194122896f90a76291ab/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/markodeb/.gradle/caches/transforms-3/f7edc4a3d324194122896f90a76291ab/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/markodeb/.gradle/caches/transforms-3/654308a0c7f52559e4bf5f63e8e890f9/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/markodeb/.gradle/caches/transforms-3/654308a0c7f52559e4bf5f63e8e890f9/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] /home/markodeb/.gradle/caches/transforms-3/8b0ddc2982987dbe4b27df9d9292c889/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /home/markodeb/.gradle/caches/transforms-3/8b0ddc2982987dbe4b27df9d9292c889/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /home/markodeb/.gradle/caches/transforms-3/04e3363e60b9835a636b1f618560b208/transformed/annotation-experimental-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /home/markodeb/.gradle/caches/transforms-3/04e3363e60b9835a636b1f618560b208/transformed/annotation-experimental-1.3.0/AndroidManifest.xml:20:5-44
+INJECTED from /home/markodeb/Downloads/viewModelWriteUnitText/basic-android-kotlin-compose-training-dessert-clicker-viewmodel/app/src/main/AndroidManifest.xml
+INJECTED from /home/markodeb/Downloads/viewModelWriteUnitText/basic-android-kotlin-compose-training-dessert-clicker-viewmodel/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/markodeb/Downloads/viewModelWriteUnitText/basic-android-kotlin-compose-training-dessert-clicker-viewmodel/app/src/main/AndroidManifest.xml
+		ADDED from /home/markodeb/Downloads/viewModelWriteUnitText/basic-android-kotlin-compose-training-dessert-clicker-viewmodel/app/src/main/AndroidManifest.xml
+		INJECTED from /home/markodeb/Downloads/viewModelWriteUnitText/basic-android-kotlin-compose-training-dessert-clicker-viewmodel/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/markodeb/Downloads/viewModelWriteUnitText/basic-android-kotlin-compose-training-dessert-clicker-viewmodel/app/src/main/AndroidManifest.xml
+		ADDED from /home/markodeb/Downloads/viewModelWriteUnitText/basic-android-kotlin-compose-training-dessert-clicker-viewmodel/app/src/main/AndroidManifest.xml
+		INJECTED from /home/markodeb/Downloads/viewModelWriteUnitText/basic-android-kotlin-compose-training-dessert-clicker-viewmodel/app/src/main/AndroidManifest.xml
+activity#androidx.compose.ui.tooling.PreviewActivity
+ADDED from [androidx.compose.ui:ui-tooling:1.3.3] /home/markodeb/.gradle/caches/transforms-3/86cbcb56c518c04971d03d6de2771721/transformed/ui-tooling-1.3.3/AndroidManifest.xml:23:9-25:39
+	android:exported
+		ADDED from [androidx.compose.ui:ui-tooling:1.3.3] /home/markodeb/.gradle/caches/transforms-3/86cbcb56c518c04971d03d6de2771721/transformed/ui-tooling-1.3.3/AndroidManifest.xml:25:13-36
+	android:name
+		ADDED from [androidx.compose.ui:ui-tooling:1.3.3] /home/markodeb/.gradle/caches/transforms-3/86cbcb56c518c04971d03d6de2771721/transformed/ui-tooling-1.3.3/AndroidManifest.xml:24:13-71
+activity#androidx.activity.ComponentActivity
+ADDED from [androidx.compose.ui:ui-test-manifest:1.3.3] /home/markodeb/.gradle/caches/transforms-3/3eedd7b1b5f0e1e34fe4fcc455b7cf83/transformed/ui-test-manifest-1.3.3/AndroidManifest.xml:23:9-25:39
+	android:exported
+		ADDED from [androidx.compose.ui:ui-test-manifest:1.3.3] /home/markodeb/.gradle/caches/transforms-3/3eedd7b1b5f0e1e34fe4fcc455b7cf83/transformed/ui-test-manifest-1.3.3/AndroidManifest.xml:25:13-36
+	android:name
+		ADDED from [androidx.compose.ui:ui-test-manifest:1.3.3] /home/markodeb/.gradle/caches/transforms-3/3eedd7b1b5f0e1e34fe4fcc455b7cf83/transformed/ui-test-manifest-1.3.3/AndroidManifest.xml:24:13-63
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] /home/markodeb/.gradle/caches/transforms-3/b07fba3fd91c66f4364e277ae09a1d3d/transformed/core-1.9.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.9.0] /home/markodeb/.gradle/caches/transforms-3/b07fba3fd91c66f4364e277ae09a1d3d/transformed/core-1.9.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.9.0] /home/markodeb/.gradle/caches/transforms-3/b07fba3fd91c66f4364e277ae09a1d3d/transformed/core-1.9.0/AndroidManifest.xml:23:9-81
+permission#com.example.dessertclicker.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] /home/markodeb/.gradle/caches/transforms-3/b07fba3fd91c66f4364e277ae09a1d3d/transformed/core-1.9.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.9.0] /home/markodeb/.gradle/caches/transforms-3/b07fba3fd91c66f4364e277ae09a1d3d/transformed/core-1.9.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.9.0] /home/markodeb/.gradle/caches/transforms-3/b07fba3fd91c66f4364e277ae09a1d3d/transformed/core-1.9.0/AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] /home/markodeb/.gradle/caches/transforms-3/b07fba3fd91c66f4364e277ae09a1d3d/transformed/core-1.9.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.9.0] /home/markodeb/.gradle/caches/transforms-3/b07fba3fd91c66f4364e277ae09a1d3d/transformed/core-1.9.0/AndroidManifest.xml:26:22-94
+uses-permission#com.example.dessertclicker.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] /home/markodeb/.gradle/caches/transforms-3/b07fba3fd91c66f4364e277ae09a1d3d/transformed/core-1.9.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.9.0] /home/markodeb/.gradle/caches/transforms-3/b07fba3fd91c66f4364e277ae09a1d3d/transformed/core-1.9.0/AndroidManifest.xml:26:22-94
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /home/markodeb/.gradle/caches/transforms-3/59b0dbc0283b095a649c9b33ef7f9bca/transformed/profileinstaller-1.2.0/AndroidManifest.xml:25:9-33:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/markodeb/.gradle/caches/transforms-3/654308a0c7f52559e4bf5f63e8e890f9/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/markodeb/.gradle/caches/transforms-3/654308a0c7f52559e4bf5f63e8e890f9/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /home/markodeb/.gradle/caches/transforms-3/59b0dbc0283b095a649c9b33ef7f9bca/transformed/profileinstaller-1.2.0/AndroidManifest.xml:29:13-31
+	android:authorities
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /home/markodeb/.gradle/caches/transforms-3/59b0dbc0283b095a649c9b33ef7f9bca/transformed/profileinstaller-1.2.0/AndroidManifest.xml:27:13-68
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /home/markodeb/.gradle/caches/transforms-3/59b0dbc0283b095a649c9b33ef7f9bca/transformed/profileinstaller-1.2.0/AndroidManifest.xml:28:13-37
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /home/markodeb/.gradle/caches/transforms-3/59b0dbc0283b095a649c9b33ef7f9bca/transformed/profileinstaller-1.2.0/AndroidManifest.xml:26:13-67
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /home/markodeb/.gradle/caches/transforms-3/59b0dbc0283b095a649c9b33ef7f9bca/transformed/profileinstaller-1.2.0/AndroidManifest.xml:30:13-32:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /home/markodeb/.gradle/caches/transforms-3/59b0dbc0283b095a649c9b33ef7f9bca/transformed/profileinstaller-1.2.0/AndroidManifest.xml:32:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /home/markodeb/.gradle/caches/transforms-3/59b0dbc0283b095a649c9b33ef7f9bca/transformed/profileinstaller-1.2.0/AndroidManifest.xml:31:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /home/markodeb/.gradle/caches/transforms-3/59b0dbc0283b095a649c9b33ef7f9bca/transformed/profileinstaller-1.2.0/AndroidManifest.xml:35:9-47:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /home/markodeb/.gradle/caches/transforms-3/59b0dbc0283b095a649c9b33ef7f9bca/transformed/profileinstaller-1.2.0/AndroidManifest.xml:38:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /home/markodeb/.gradle/caches/transforms-3/59b0dbc0283b095a649c9b33ef7f9bca/transformed/profileinstaller-1.2.0/AndroidManifest.xml:39:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /home/markodeb/.gradle/caches/transforms-3/59b0dbc0283b095a649c9b33ef7f9bca/transformed/profileinstaller-1.2.0/AndroidManifest.xml:40:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /home/markodeb/.gradle/caches/transforms-3/59b0dbc0283b095a649c9b33ef7f9bca/transformed/profileinstaller-1.2.0/AndroidManifest.xml:37:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /home/markodeb/.gradle/caches/transforms-3/59b0dbc0283b095a649c9b33ef7f9bca/transformed/profileinstaller-1.2.0/AndroidManifest.xml:36:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /home/markodeb/.gradle/caches/transforms-3/59b0dbc0283b095a649c9b33ef7f9bca/transformed/profileinstaller-1.2.0/AndroidManifest.xml:41:13-43:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /home/markodeb/.gradle/caches/transforms-3/59b0dbc0283b095a649c9b33ef7f9bca/transformed/profileinstaller-1.2.0/AndroidManifest.xml:42:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /home/markodeb/.gradle/caches/transforms-3/59b0dbc0283b095a649c9b33ef7f9bca/transformed/profileinstaller-1.2.0/AndroidManifest.xml:42:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /home/markodeb/.gradle/caches/transforms-3/59b0dbc0283b095a649c9b33ef7f9bca/transformed/profileinstaller-1.2.0/AndroidManifest.xml:44:13-46:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /home/markodeb/.gradle/caches/transforms-3/59b0dbc0283b095a649c9b33ef7f9bca/transformed/profileinstaller-1.2.0/AndroidManifest.xml:45:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /home/markodeb/.gradle/caches/transforms-3/59b0dbc0283b095a649c9b33ef7f9bca/transformed/profileinstaller-1.2.0/AndroidManifest.xml:45:25-82
